@@ -14,9 +14,6 @@ Made as a **portfolio/demo project** for Android Developer roles.
 
 ---
 
-## 🎥 Demo
-
-
 ## 🎥 Preview
 
 <div align="center">
