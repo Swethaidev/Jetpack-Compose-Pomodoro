@@ -16,12 +16,14 @@ Made as a **portfolio/demo project** for Android Developer roles.
 
 ## 🎥 Demo
 
-> Add a short GIF or screenshot here once available.
 
-**Preview:**  
-![img.png](img.png)
-![img_1.png](img_1.png)
-![img_2.png](img_2.png)
+## 🎥 Preview
+
+<div align="center">
+  <img src="img.png" width="260" />
+  <img src="img_1.png" width="260" />
+  <img src="img_2.png" width="260" />
+</div>
 
 ---
 
